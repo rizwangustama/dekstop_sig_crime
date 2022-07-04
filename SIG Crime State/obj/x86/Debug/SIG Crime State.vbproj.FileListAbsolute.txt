@@ -1,0 +1,83 @@
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\bin\Debug\SIG Crime State.exe.config
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.exe
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.xml
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.pdb
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\bin\Debug\SIG Crime State.pdb
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\bin\Debug\SIG Crime State.xml
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.vbprojResolveAssemblyReference.cache
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.Dashboard.resources
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.ManageKecamatan.resources
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.Resources.resources
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogUserProfile.resources
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.ListOfUsers.resources
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.ControlKecamatan.resources
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogKecamatan.resources
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DataKlasifikasiKriminal.resources
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogKlasifikasiKecamatan.resources
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogDataKriminal.resources
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.ListOfNews.resources
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DatabaseConnection.resources
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.vbproj.GenerateResource.Cache
+C:\Users\intel5\Downloads\zFD\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.LoginForm.resources
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\bin\Debug\SIG Crime State.exe.config
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\bin\Debug\SIG Crime State.pdb
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\bin\Debug\SIG Crime State.xml
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.vbprojResolveAssemblyReference.cache
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.Dashboard.resources
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.LoginForm.resources
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.Resources.resources
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogUserProfile.resources
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.ListOfUsers.resources
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.ControlKecamatan.resources
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogKecamatan.resources
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DataKlasifikasiKriminal.resources
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogKlasifikasiKecamatan.resources
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogDataKriminal.resources
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.ListOfNews.resources
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DatabaseConnection.resources
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.vbproj.GenerateResource.Cache
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.exe
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.xml
+C:\Users\intel5\Downloads\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.pdb
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\bin\Debug\SIG Crime State.exe.config
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.exe
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.xml
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.pdb
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\bin\Debug\SIG Crime State.pdb
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\bin\Debug\SIG Crime State.xml
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.vbprojResolveAssemblyReference.cache
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.Dashboard.resources
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.LoginForm.resources
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.Resources.resources
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogUserProfile.resources
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.ListOfUsers.resources
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.ControlKecamatan.resources
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogKecamatan.resources
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DataKlasifikasiKriminal.resources
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogKlasifikasiKecamatan.resources
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogDataKriminal.resources
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.ListOfNews.resources
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DatabaseConnection.resources
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.vbproj.GenerateResource.Cache
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\bin\Debug\SIG Crime State.exe.config
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\bin\Debug\SIG Crime State.pdb
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\bin\Debug\SIG Crime State.xml
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.vbprojResolveAssemblyReference.cache
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.Dashboard.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.LoginForm.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.Resources.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogUserProfile.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.ListOfUsers.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogPerifikasi.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.ControlKecamatan.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogKecamatan.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DataKlasifikasiKriminal.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogKlasifikasiKecamatan.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogDataKriminal.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.ListOfNews.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DatabaseConnection.resources
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.vbproj.GenerateResource.Cache
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.exe
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.xml
+C:\Users\rvg\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG Crime State.pdb
+C:\Users\Rizwan Gustama\OneDrive\Documents\Visual Studio 2010\Projects\SIG Crime State\SIG Crime State\obj\x86\Debug\SIG_Crime_State.DialogPerifikasi.resources
